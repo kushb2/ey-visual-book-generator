@@ -1,0 +1,13 @@
+.DS_Store
+.idea/
+*.iml
+
+.env
+target/
+frontend/node_modules/
+frontend/dist/
+
+# Generated PDFs and customer source material must never be committed.
+tmp/
+uploads/
+*.pdf
